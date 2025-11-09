@@ -37,9 +37,15 @@ Raceway Math is designed with children in mind:
 - No in-app purchases  
 - No analytics or personal data collection  
 
-For details, you can read the shared **Privacy Policy for Raceway Math and Raceway Spelling** on the Solstice1 site.
+### Privacy Policy
 
-[Read the Privacy Policy](https://www.solstice1.org/privacy-policy)
+Raceway Math is designed with children in mind:
+
+- No ads  
+- No in-app purchases  
+- No analytics or personal data collection  
+
+You can read the complete [Privacy Policy](privacy-policy.md) here.
 
 ### Where to get Raceway Math
 
