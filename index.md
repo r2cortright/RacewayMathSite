@@ -63,3 +63,12 @@ If you have questions, feedback, or ideas for improvement:
 
 - App Store: [View Raceway Math](https://apps.apple.com/us/app/raceway-math/id6749724993)
 - Privacy Policy: [Read the privacy policy](privacy-policy.md)
+- Report a bug or request a feature: [Open a Raceway Math issue](https://github.com/r2cortright/RacewayMath/issues/new/choose)
+
+### Send feedback directly
+
+Want to report a bug, suggest an improvement, or ask for a feature?
+
+- [Report a bug](https://github.com/r2cortright/RacewayMath/issues/new?title=%5BBug%5D%3A+&body=Please+describe+the+problem%2C+what+device+you+used%2C+and+what+happened.)
+- [Request a feature](https://github.com/r2cortright/RacewayMath/issues/new?title=%5BFeature%5D%3A+&body=Please+describe+the+idea+and+why+it+would+help.)
+- [Open a general issue](https://github.com/r2cortright/RacewayMath/issues/new/choose)
