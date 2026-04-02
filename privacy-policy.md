@@ -2,60 +2,48 @@
 
 _Last updated: April 2026_
 
-Thank you for using **Raceway Math**, an educational app developed by **Solstice1**.
+This Privacy Policy describes how **Raceway Math** handles information in connection with the app.
 
-This policy explains what information the app collects, stores, or shares.
+We understand the importance of privacy for our users, especially children, and we take that responsibility seriously.
 
-## Summary
+## No data collection
 
-Raceway Math does **not** collect, store, or transmit personal information.
+Raceway Math does **not** collect, store, or share personal information.
 
-The app is designed to run locally on the device and does not require account creation, analytics tracking, advertising SDKs, or external data collection.
+The app does not require users to provide personal data, and it does not transmit personal information to us or to third parties.
 
-## Information collection
+The app includes:
 
-Raceway Math does **not** collect personal data.
+- No account creation
+- No user registration
+- No analytics tracking
+- No advertising SDKs
+- No in-app purchases
+- No sale or sharing of personal information
 
-- No login or registration is required
-- No analytics or behavioral tracking are used
-- No advertising SDKs are included
-- No user data is sold or shared
-- Gameplay data such as scores or progress remains on the device
+Gameplay data such as settings, scores, and progress remains on the device.
 
 ## Children’s privacy
 
 Raceway Math is designed for children and families.
 
-Because the app does not collect or transmit personal information, it is designed to align with child privacy expectations, including COPPA-style privacy principles.
+Because the app does not collect, store, or transmit personal information, it is intended to align with child privacy expectations, including COPPA-style privacy principles.
 
-## In-app purchases and advertising
-
-Raceway Math includes:
-
-- No in-app purchases
-- No third-party ads
-- No hidden monetization
-
-## Internet access
+## Internet access and external links
 
 Raceway Math does not require an internet connection for normal gameplay.
 
-If a user chooses to open an external link, it may open:
+If a user chooses to open an external link, the app may direct them to:
 
 - this privacy policy
-- the App Store listing
-- the official Solstice1 website
+- the App Store listing for Raceway Math
 
-Those links open in the device’s default browser.
+These links open outside the app using the device’s default browser or App Store app.
 
 ## Changes to this policy
 
-If the privacy posture of Raceway Math changes in the future, this page will be updated to reflect those changes.
+If Raceway Math’s privacy practices change in the future, this privacy policy will be updated to reflect those changes.
 
 ## Contact
 
-If you have any questions about Raceway Math or this privacy policy, contact:
-
-**Richard Cortright II**  
-Email: [r2cortright@solstice1.org](mailto:r2cortright@solstice1.org)  
-Website: [https://www.solstice1.org](https://www.solstice1.org)
+If you have questions about Raceway Math or this privacy policy, please use the contact or support options provided through the App Store listing.

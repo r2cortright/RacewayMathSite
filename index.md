@@ -61,11 +61,5 @@ Raceway Math works well for:
 
 If you have questions, feedback, or ideas for improvement:
 
-- Email: [r2cortright@solstice1.org](mailto:r2cortright@solstice1.org)
 - App Store: [View Raceway Math](https://apps.apple.com/us/app/raceway-math/id6749724993)
-
-## Solstice1
-
-Raceway Math is part of Solstice1’s effort to build simple, focused tools that help kids learn well.
-
-[Visit Solstice1](https://www.solstice1.org/)
+- Privacy Policy: [Read the privacy policy](privacy-policy.md)
