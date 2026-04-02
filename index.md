@@ -1,85 +1,71 @@
 # Raceway Math
 
-A fast-paced way to practice math facts through racing.
+A fast-paced, kid-friendly math practice game for **iPhone and iPad**.
+
+[Download on the App Store](https://apps.apple.com/us/app/raceway-math/id6749724993)
 
 ![Raceway Math screenshot](assets/raceway-math-screenshot.png)
 
-### A math race instead of a worksheet
+## Turn math facts into a race
 
-Raceway Math turns everyday practice into a quick, energetic race.  
-Pick your operation, choose a track, and answer as many questions as you can before time runs out. Perfect for kids building fluency or anyone who wants to sharpen basic skills in a fun way.
+Raceway Math helps kids practice core arithmetic through quick, energetic races instead of repetitive worksheets.
 
-### What kids can practice
+Players can choose an operation, pick a track length, and solve problems as fast and accurately as they can. It is designed to make practice feel motivating, simple, and fun.
 
-- Addition, subtraction, multiplication, and division  
-- Short, focused races that fit easily into a busy day  
-- Timed runs that encourage both accuracy and speed
+## What kids can practice
 
-### Choose your own challenge
+- Addition
+- Subtraction
+- Multiplication
+- Division
 
-Every race can be tuned:
+## Why families like it
 
-- Select which operation(s) you want to focus on  
-- Adjust difficulty so newer learners and more advanced kids are both challenged  
-- Change track length so a session can be very short or a bit longer, depending on how much time you have
+- Short practice sessions that fit easily into a busy day
+- Bright, simple presentation that is easy for kids to follow
+- Tap-friendly controls built for iPhone and iPad
+- Encourages both **accuracy** and **speed**
+- Useful for home practice, travel, or classroom stations
 
-### Built for kids and parents
+## Flexible challenge levels
 
-- Bright, simple visuals that keep attention without being overwhelming  
-- Easy, tap-friendly controls designed for young players  
-- Great for practice at home, in the car, or in a classroom station
+Raceway Math is built to work for different ages and comfort levels.
 
-### No ads, no tracking
+Players can:
 
-Raceway Math is designed with children in mind:
+- focus on a specific math operation
+- choose a shorter or longer race
+- adjust difficulty to match their current skill level
+- build confidence first, then increase challenge over time
 
-- No ads  
-- No in-app purchases  
-- No analytics or personal data collection  
+## No ads. No tracking. No nonsense.
 
-### Privacy Policy
+Raceway Math is designed with children and families in mind.
 
-Raceway Math is designed with children in mind:
+- No ads
+- No in-app purchases
+- No analytics or personal data collection
 
-- No ads  
-- No in-app purchases  
-- No analytics or personal data collection  
+Read the full [Privacy Policy](privacy-policy.md).
 
-You can read the complete [Privacy Policy](privacy-policy.md) here.
-
-### Where to get Raceway Math
-
-Raceway Math is available on the App Store for iPhone and iPad.
-
-- **App Store page:**  
-  [Download Raceway Math on the App Store](https://apps.apple.com/us/app/raceway-math/id6749724993)
-
-(Price and availability may vary by country/region.)
-
-### Tips for parents & teachers
+## Good for parents and teachers
 
 Raceway Math works well for:
 
-- Quick daily fluency warm-ups  
-- “Beat your best score” practice sessions  
-- Friendly competitions between siblings or classmates  
-- Extra practice for kids who need more repetition with basic facts
+- daily math fact warm-ups
+- friendly score challenges
+- extra repetition for developing fluency
+- focused single-operation practice
 
-You can encourage kids to:
+## Support
 
-- Start on easier settings to build confidence  
-- Gradually increase difficulty or track length as they improve  
-- Focus on one operation at a time (for example, just multiplication) before mixing operations together
+If you have questions, feedback, or ideas for improvement:
 
-### Support & feedback
-
-If you have questions, ideas, or encounter an issue, you can:
-
-- Leave a review on the App Store  
 - Email: [r2cortright@solstice1.org](mailto:r2cortright@solstice1.org)
+- App Store: [View Raceway Math](https://apps.apple.com/us/app/raceway-math/id6749724993)
 
-### About Solstice1
+## Solstice1
 
-Raceway Math is part of Solstice1’s effort to support growth in knowledge, faith, and technology through simple, focused tools that help kids learn.
+Raceway Math is part of Solstice1’s effort to build simple, focused tools that help kids learn well.
 
-[Visit the main Solstice1 site](https://www.solstice1.org/)
+[Visit Solstice1](https://www.solstice1.org/)
