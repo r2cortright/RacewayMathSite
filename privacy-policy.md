@@ -46,4 +46,7 @@ If Raceway Math’s privacy practices change in the future, this privacy policy 
 
 ## Contact
 
-If you have questions about Raceway Math or this privacy policy, please use the contact or support options provided through the App Store listing.
+If you have questions about Raceway Math or this privacy policy, you can contact:
+
+- Email: [stands.coarse-4j@icloud.com](mailto:stands.coarse-4j@icloud.com)
+- App Store listing: [Raceway Math on the App Store](https://apps.apple.com/us/app/raceway-math/id6749724993)

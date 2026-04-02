@@ -61,6 +61,7 @@ Raceway Math works well for:
 
 If you have questions, feedback, or ideas for improvement:
 
+- Email: [stands.coarse-4j@icloud.com](mailto:stands.coarse-4j@icloud.com)
 - App Store: [View Raceway Math](https://apps.apple.com/us/app/raceway-math/id6749724993)
 - Privacy Policy: [Read the privacy policy](privacy-policy.md)
 - Report a bug or request a feature: [Open a Raceway Math issue](https://github.com/r2cortright/RacewayMath/issues/new/choose)
