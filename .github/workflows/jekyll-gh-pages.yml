@@ -3,6 +3,7 @@ name: Deploy Jekyll site to Pages
 on:
   push:
     branches: ["main"]
+  pull_request:
   workflow_dispatch:
 
 permissions:
@@ -30,10 +31,18 @@ jobs:
           source: ./
           destination: ./_site
 
+      - name: Verify key support links exist
+        run: |
+          grep -q 'github.com/r2cortright/RacewayMath/issues/new/choose' index.md
+          grep -q 'privacy-policy.md' index.md
+          grep -q 'mailto:' index.md
+
       - name: Upload artifact
+        if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v3
 
   deploy:
+    if: github.event_name != 'pull_request'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

@@ -38,13 +38,14 @@ Players can:
 - adjust difficulty to match their current skill level
 - build confidence first, then increase challenge over time
 
-## No ads. No tracking. No nonsense.
+## Family-friendly and straightforward
 
 Raceway Math is designed with children and families in mind.
 
 - No ads
-- No in-app purchases
 - No analytics or personal data collection
+- Free to download and play
+- Optional tip jar support may be available to help support development, but it is never required to use the app
 
 Read the full [Privacy Policy](privacy-policy.md).
 
@@ -64,6 +65,7 @@ If you have questions, feedback, or ideas for improvement:
 - Email: [stands.coarse-4j@icloud.com](mailto:stands.coarse-4j@icloud.com)
 - App Store: [View Raceway Math](https://apps.apple.com/us/app/raceway-math/id6749724993)
 - Privacy Policy: [Read the privacy policy](privacy-policy.md)
+- Release updates and issue tracking: [Raceway Math on GitHub](https://github.com/r2cortright/RacewayMath)
 - Report a bug or request a feature: [Open a Raceway Math issue](https://github.com/r2cortright/RacewayMath/issues/new/choose)
 
 ### Send feedback directly
@@ -73,3 +75,13 @@ Want to report a bug, suggest an improvement, or ask for a feature?
 - [Report a bug](https://github.com/r2cortright/RacewayMath/issues/new?title=%5BBug%5D%3A+&body=Please+describe+the+problem%2C+what+device+you+used%2C+and+what+happened.)
 - [Request a feature](https://github.com/r2cortright/RacewayMath/issues/new?title=%5BFeature%5D%3A+&body=Please+describe+the+idea+and+why+it+would+help.)
 - [Open a general issue](https://github.com/r2cortright/RacewayMath/issues/new/choose)
+
+### What is changing in the next phase?
+
+Raceway Math is moving toward a simpler release model:
+
+- free download by default
+- optional support through a tip jar when available
+- continued focus on math fluency, speed, and family-friendly design
+
+That keeps the app usable for everyone while still giving supportive families a simple way to help fund ongoing improvements.
