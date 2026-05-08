@@ -31,6 +31,12 @@ jobs:
           source: ./
           destination: ./_site
 
+      - name: Verify key support links exist
+        run: |
+          grep -q 'github.com/r2cortright/RacewayMath/issues/new/choose' index.md
+          grep -q 'privacy-policy.md' index.md
+          grep -q 'mailto:' index.md
+
       - name: Upload artifact
         if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v3
